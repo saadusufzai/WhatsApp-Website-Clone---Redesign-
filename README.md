@@ -5,4 +5,5 @@ I have developed this site by using simple CSS Techniques like Flex Box and CSS 
 Sliding menu for the responsive site is made using CSS animation.
 I have used the orignal pictures and colors used in the orignal site www.whatsapp.com
 
-Note: There were no bad intention while copying and cloning this website. It was done only for educational purposes as I was requested to make a clone of this particular website by my students. 
+Note: There were no bad intention while copying and cloning this website. It was done only for educational purposes as I was requested to make a clone of this particular website by my students.  
+Hoping it will help you guys to understand the basics of web development. 
